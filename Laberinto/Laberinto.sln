@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laberinto", "Laberinto.csproj", "{699041BF-1ED5-477F-A188-71D3EEA6DAB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{699041BF-1ED5-477F-A188-71D3EEA6DAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699041BF-1ED5-477F-A188-71D3EEA6DAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699041BF-1ED5-477F-A188-71D3EEA6DAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699041BF-1ED5-477F-A188-71D3EEA6DAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB8E218F-8DD5-41FE-A587-CFD503C6AF5B}
+	EndGlobalSection
+EndGlobal
